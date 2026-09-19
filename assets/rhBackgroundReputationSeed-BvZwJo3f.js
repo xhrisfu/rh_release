@@ -1,0 +1,1 @@
+import{bT as i,oi as r,d as e}from"./main-BLsvJD4Q.js";import"./vendor-core-CILx5E2g.js";import"./vendor-db-2jmnBxhj.js";import"./vendor-render-CURnbxgz.js";function d(t){if(!t||!i(null,t))return;const o=String(t.background||"").trim();if(!o)return;const n=r(o)[0];if(!n)return;e().changeReputation(n.id,5,"前缘渊源",{notifyTierChange:!1})}export{d as applyRhBackgroundReputationSeed};
